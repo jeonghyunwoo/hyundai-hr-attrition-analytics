@@ -1,0 +1,16 @@
+﻿feature,coef,abs_coef,feature_clean
+cat__BusinessTravel_Non-Travel,-0.9541453601162747,0.9541453601162747,BusinessTravel_Non-Travel
+cat__OverTime_No,-0.7960151833526347,0.7960151833526347,OverTime_No
+cat__income_group_중상,-0.6906999859387026,0.6906999859387026,income_group_중상
+cat__age_group_36-45,-0.6575157999027599,0.6575157999027599,age_group_36-45
+cat__MaritalStatus_Divorced,-0.6225531007611119,0.6225531007611119,MaritalStatus_Divorced
+num__JobInvolvement,-0.44436930493242455,0.44436930493242455,JobInvolvement
+cat__EducationField_Life Sciences,-0.4336289538284144,0.4336289538284144,EducationField_Life Sciences
+num__EnvironmentSatisfaction,-0.4109917546176673,0.4109917546176673,EnvironmentSatisfaction
+num__JobSatisfaction,-0.4037939755030438,0.4037939755030438,JobSatisfaction
+num__manager_tenure_ratio,-0.3994566985606969,0.3994566985606969,manager_tenure_ratio
+cat__JobRole_Research Scientist,-0.3892075732985192,0.3892075732985192,JobRole_Research Scientist
+cat__tenure_group_11-20년,-0.3675441373859802,0.3675441373859802,tenure_group_11-20년
+cat__JobRole_Healthcare Representative,-0.3230284514057256,0.3230284514057256,JobRole_Healthcare Representative
+num__WorkLifeBalance,-0.31557985597574095,0.31557985597574095,WorkLifeBalance
+num__promotion_gap_ratio,-0.3030418351789809,0.3030418351789809,promotion_gap_ratio

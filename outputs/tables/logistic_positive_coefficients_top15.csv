@@ -1,0 +1,16 @@
+﻿feature,coef,abs_coef,feature_clean
+cat__OverTime_Yes,0.9553690168807002,0.9553690168807002,OverTime_Yes
+cat__BusinessTravel_Travel_Frequently,0.921956465831772,0.921956465831772,BusinessTravel_Travel_Frequently
+cat__MaritalStatus_Single,0.808410612864103,0.808410612864103,MaritalStatus_Single
+cat__EducationField_Technical Degree,0.680235472466291,0.680235472466291,EducationField_Technical Degree
+cat__income_group_저소득,0.6376743892311265,0.6376743892311265,income_group_저소득
+num__income_log,0.6277520477822739,0.6277520477822739,income_log
+cat__JobRole_Laboratory Technician,0.5664431678371201,0.5664431678371201,JobRole_Laboratory Technician
+cat__tenure_group_0-2년,0.4568727876995408,0.4568727876995408,tenure_group_0-2년
+cat__JobRole_Sales Representative,0.39039085041262783,0.39039085041262783,JobRole_Sales Representative
+cat__Department_Sales,0.3709382787284389,0.3709382787284389,Department_Sales
+cat__age_group_18-25,0.3700248749118378,0.3700248749118378,age_group_18-25
+cat__income_group_고소득,0.3430517248083849,0.3430517248083849,income_group_고소득
+cat__tenure_group_6-10년,0.33421705342466235,0.33421705342466235,tenure_group_6-10년
+num__PerformanceRating,0.3336853595942094,0.3336853595942094,PerformanceRating
+cat__Gender_Male,0.29710198632046164,0.29710198632046164,Gender_Male
